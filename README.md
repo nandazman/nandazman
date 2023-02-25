@@ -1,3 +1,5 @@
+![Icon](https://raw.githubusercontent.com/nandazman/nandazman/00d53ee87d82ad0e03db4db7b52858d1eaf5d573/icon.svg)
+
 ### Hi there 👋
 
 <!--
@@ -16,5 +18,4 @@ Here are some ideas to get you started:
 -->
 
 -   Top languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandazman)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandazman)
