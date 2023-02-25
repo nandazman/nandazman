@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/nandazman/nandazman/00d53ee87d82ad0e03db4db7b52858d1eaf5d573/icon.svg" width=250 height=250>
+  <img align="center" src="https://raw.githubusercontent.com/nandazman/nandazman/00d53ee87d82ad0e03db4db7b52858d1eaf5d573/icon.svg" width=100 height=100>
 </p>
 
 ### Hi there 👋
