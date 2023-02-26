@@ -1,25 +1,19 @@
-<p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/nandazman/nandazman/00d53ee87d82ad0e03db4db7b52858d1eaf5d573/icon.svg" width=100 height=100>
-</p>
+# Hello there!
 
-### Hi there 👋
+<img align="left" src="https://raw.githubusercontent.com/nandazman/nandazman/main/icon/main.svg" width=100 height=100>
 
 
-<!--
-**nandazman/nandazman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Name is Nanda Fadhil Azman. I'm currently working as a Front end developer ✌️.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Github Io](https://raw.githubusercontent.com/nandazman/nandazman/main/icon/github.svg)](https://nandazman.github.io/)
+[![Linkedin Profile](https://raw.githubusercontent.com/nandazman/nandazman/main/icon/linkedin.svg)](https://www.linkedin.com/in/nandazman/)
+[![Twitter Profile](https://raw.githubusercontent.com/nandazman/nandazman/main/icon/twitter.svg)](https://twitter.com/nandazman)
 
--   Top languages
+<br>
+<br>
+
+
+# Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandazman)
