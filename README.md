@@ -17,3 +17,8 @@ My Name is Nanda Fadhil Azman. I'm currently working as a Front end developer �
 # Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandazman)
+
+# Hello
+
+- 💬 Ask me about anything.
+- ⚡ Fun fact: Like to talk to cats a lot.
