@@ -8,7 +8,7 @@ My Name is Nanda Fadhil Azman. I'm currently working as a Front end developer âœ
 
 [![Github Io](https://raw.githubusercontent.com/nandazman/nandazman/main/icon/github.svg)](https://nandazman.github.io/)
 [![Linkedin Profile](https://raw.githubusercontent.com/nandazman/nandazman/main/icon/linkedin.svg)](https://www.linkedin.com/in/nandazman/)
-[![Twitter Profile](https://raw.githubusercontent.com/nandazman/nandazman/main/icon/twitter.svg)](https://twitter.com/nandazman)
+[![Twitter Profile](https://raw.githubusercontent.com/nandazman/nandazman/main/icon/twitter.svg)](https://twitter.com/intent/follow?screen_name=nandazman)
 
 <br>
 <br>
